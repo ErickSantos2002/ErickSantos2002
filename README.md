@@ -1,27 +1,33 @@
-### Hi there 👋
+## Erick Santos
 
-I'm Erick Santos, a passionate Python developer with a focus on automation and data collection using APIs.
+Data Scientist at **Health & Safety** (Recife, Brazil), where I built the
+internal tech team from the ground up. Today it runs **eight internal systems in
+production** — analytics, CRM, helpdesk, asset management and more — maintained
+by a two-person team. I own the backend, APIs and data.
 
-- 🔭 I’m currently working on various automation projects and exploring new APIs to gather and analyze data.
-- 🌱 I’m always looking to learn more about efficient coding practices, new libraries, and tools that can enhance my workflow.
-- 💬 Ask me about Python, API integration, and automation.
-- 📫 How to reach me: [ericksantosdantas@gmail.com](mailto:ericksantosdantas@gmail.com)
-- ⚡ Fun fact: I love solving complex problems and making processes more efficient with code.
+My work sits between the database and everything that needs to read from it:
+ingestion pipelines from third-party ERPs and public APIs, PostgreSQL modeling,
+FastAPI services, and the infrastructure that keeps it running.
 
-### 🛠 Tech Stack
-- Python
-- RESTful APIs
-- Web Scraping
-- Data Analysis
-- Automation Tools
+### Selected projects
 
-## 📈 GitHub Stats
-![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickSantos2002&show_icons=true&theme=radical)
+- **[radar-vagas](https://github.com/ErickSantos2002/radar-vagas)** — Data pipeline that aggregates remote job postings from five public APIs, resolves geographic eligibility and tracks skill demand over time. `Python`
+- **[tiny-integrador](https://github.com/ErickSantos2002/tiny-integrador)** — ERP integration: API ingestion into a PostgreSQL warehouse on a self-managed VPS. `Python`
+- **[Grana](https://github.com/ErickSantos2002/Grana)** — Personal finance app. Monorepo: FastAPI backend + React/Vite frontend.
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ErickSantos2002&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+### Stack
 
-### 📫 Connect with me
-- [LinkedIn]([https://www.linkedin.com/in/ericksantos](https://www.linkedin.com/in/erick-santos-9b86511ba/))
+**Data** PostgreSQL · SQL · Python · pandas · ETL/ELT pipelines
+**Backend** FastAPI · REST APIs · third-party API integration
+**Frontend** TypeScript · React
+**Infra** Linux · Docker · VPS · EasyPanel · CI/CD
 
-Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+### About
+
+Tecnólogo em Análise e Desenvolvimento de Sistemas (UNIBRA, 2025). Fluent in
+English — lived in Tennessee, USA. Open to remote data engineering roles.
+
+### Contact
+
+- Email: [ericksantosdantas@gmail.com](mailto:ericksantosdantas@gmail.com)
+- LinkedIn: [erick-santos2002](https://www.linkedin.com/in/erick-santos2002/)
