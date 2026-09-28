@@ -1,6 +1,6 @@
 ## Erick Santos
 
-Data Scientist at **Health & Safety** (Recife, Brazil), where I built the
+Data Engineer at **Health & Safety** (Recife, Brazil), where I built the
 internal tech team from the ground up. Today it runs **eight internal systems in
 production** — analytics, CRM, helpdesk, asset management and more — maintained
 by a two-person team. I own the backend, APIs and data.
