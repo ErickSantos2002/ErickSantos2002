@@ -118,24 +118,83 @@ Na prática: ingestão em Python a partir do ERP e das notas fiscais, modelagem 
 
 ---
 
-## Stack
+## 🧰 Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+<div align="center">
+
+**Linguagens**<br>
+<img src="https://skillicons.dev/icons?i=python,ts,java,bash" alt="Python, TypeScript, Java e Bash"/>
+
+**Backend e Frontend**<br>
+<img src="https://skillicons.dev/icons?i=fastapi,spring,react,vite" alt="FastAPI, Spring Boot, React e Vite"/>
+
+**Dados**<br>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite" alt="PostgreSQL e SQLite"/><br>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+
+**Infra e Ferramentas**<br>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,vscode" alt="Docker, Linux, Git, GitHub, GitHub Actions e VS Code"/>
+
+</div>
 
 ---
 
-## Formação
+## 💼 Experiência
+
+**Health & Safety** · Coordenador de Dados (backend e engenharia de dados) · jul/2026 – atual<br>
+Extratores Python do ERP, camada dbt em produção, APIs em FastAPI, infraestrutura e a migração da plataforma de agentes de IA.
+
+**Health & Safety** · Cientista de Dados / Analista de Dados · dez/2024 – jun/2026<br>
+DataCoreHS (ingestão do ERP e das notas fiscais, API REST), HealthScore, triagem de currículos com IA e automações entre ERP e CRM.
+
+**Health & Safety** · Auxiliar de TI / Estagiário de TI · jun/2024 – dez/2024<br>
+Automação de importações de dados de cliente em Python, a primeira integração com o ERP via REST e suporte técnico aos usuários.
+
+---
+
+## 🧠 Como eu trabalho
+
+> Pipeline bom avisa quando falha.
+
+- Confiro o número na origem antes de confiar no dashboard
+- Escolho a chave pelo que é único por regra, não pelo que tem sido único até hoje
+- Faço a conta onde o dado mora
+- Código que eu não entendo não entra, mesmo vindo da IA
+- Teste que continua passando com a lógica quebrada não prova nada
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://streak-stats.demolab.com?user=ErickSantos2002&hide_border=true&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=FBBF24&dates=A8A29E&stroke=44403C&currStreakNum=FFFFFF&sideNums=FFFFFF&locale=pt_BR" alt="Sequência de contribuições de ErickSantos2002"/>
+
+<img width="720" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErickSantos2002&theme=github_dark" alt="Resumo do perfil de ErickSantos2002"/>
+
+</div>
+
+---
+
+## 🎓 Formação
 
 Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNIBRA (2022–2025). Inglês fluente: morei seis meses no Tennessee, nos Estados Unidos, pelo programa Ganhe o Mundo.
+
+---
+
+<div align="center">
+
+## 🤝 Vamos conversar
+
+Gosto de problema em que o dado precisa chegar certo, porque alguém decide em cima dele.
+
+<a href="https://www.linkedin.com/in/erick-santos2002"><img src="https://img.shields.io/badge/LinkedIn-Erick%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ericksantosdantas@gmail.com"><img src="https://img.shields.io/badge/E--mail-ericksantosdantas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+<a href="https://github.com/ErickSantos2002"><img src="https://img.shields.io/badge/GitHub-ErickSantos2002-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0C0A09,45:78350F,80:D97706,100:FBBF24"/>
